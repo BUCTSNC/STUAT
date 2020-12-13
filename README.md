@@ -1,4 +1,4 @@
-# STUAT
+# STUAT-学生活动辅助套件
 
 STUAT，您可以理解为StudentActivitiesTools或StudentAffairTools，意味学生活动辅助工具。
 
@@ -12,11 +12,15 @@ STUAT目前包含两个套件，各个套件之间是互相独立的，您可以
 
 ## STUAT_BillDistributor
 
+[STUAT_BillDistributor](https://github.com/BUCTSNC/STUAT_BillDistributor)
+
 STUAT套件-开支分配器
 
 本套件适用于一场多人交叉付费的活动或者不同人标准不同的付费活动的事后均摊中。为了相对的公平，可以使用本程序。
 
 ## STUAT_SchuduleIntersector
+
+[STUAT_SchuduleIntersector](https://github.com/BUCTSNC/STUAT_SchuduleIntersector)
 
 STUAT套件-课表求交器
 
